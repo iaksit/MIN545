@@ -1,0 +1,14 @@
+class Counter:
+    def __init__(self, n=0):
+        self._count = n
+
+    def increase(self):
+        self._count += 1
+
+    def get_count(self):
+        return self._count
+
+    def create_counter_with(n):
+        temp = Counter()
+        temp._count = n
+        return temp
