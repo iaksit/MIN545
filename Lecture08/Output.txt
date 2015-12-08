@@ -1,0 +1,12 @@
+Hello this is my first file!
+The first 10 even numbers are:
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
