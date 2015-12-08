@@ -14,4 +14,7 @@ class ListStack:
     def is_empty(self):
         return (self._data.size() == 0)
 
+    def peek(self):
+    	return self._data._head.get_value()
+
         
