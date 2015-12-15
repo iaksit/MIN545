@@ -1,4 +1,4 @@
-from LinkedList import LinkedList
+from MyCollections.LinkedList import LinkedList
 
 class ListStack:
 
